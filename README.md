@@ -3,10 +3,8 @@ Libros y cuadernos tecnicos que se publican en la web
 www.pinguytaz.net
 
 - Cinelerra  Edicion de video
-- RFID    Tarjetas RFID
-- MPaP    Motores Paso a Paso
 
-# Arduino
+## Arduino
 Cuadernos tecnicos con la programación de arduino y dispositivos
 
 - Arduinos        Uso del IDE y la programación de Arduino, incluida creación de librerias.
@@ -15,7 +13,7 @@ Cuadernos tecnicos con la programación de arduino y dispositivos
 - RFID            Tarjetas RFID
 - MPaP            Motores Paso a Paso
  
-# Notas CTFs
+## Notas CTFs
 Notas de CTFs realizadas con diferentes formas de lograrlos.
 
 - Mr. Robot (localización y explotación de escalada de privilegios SUID)
